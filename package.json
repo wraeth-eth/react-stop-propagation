@@ -3,6 +3,10 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wraeth-eth/react-stop-propagation"
+  },
   "version": "0.1.0",
   "description": "Curried function for stopping event propagation in React.",
   "author": "Lachlan McCulloch",
