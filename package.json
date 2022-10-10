@@ -4,7 +4,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "version": "0.1.0",
-  "description": "Curried function for stopping event propagation.",
+  "description": "Curried function for stopping event propagation in React.",
   "author": "Lachlan McCulloch",
   "license": "MIT",
   "scripts": {
